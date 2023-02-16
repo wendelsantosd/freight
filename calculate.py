@@ -1,6 +1,6 @@
 km = float(input('Digite o KM a ser percorrido: '))
 
-currentValueGasoline = 5
+currentValueGasoline = 5.5
 
 gasolineInLiterPerKm = km / 16
 
