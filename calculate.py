@@ -2,7 +2,7 @@ km1 = float(input('Digite o KM de IDA a ser percorrido: '))
 km2 = float(input('Digite o KM de VOLTA ser percorrido: '))
 
 kmTotal = km1 + km2
-currentValueGasoline = 5.3
+currentValueGasoline = 6
 
 gasolineInLiterPerKm1 = km1 / 17
 gasolineInLiterPerKm2 = km2 / 17
